@@ -35,13 +35,13 @@ This C++ application finds optimal routes between cities based on either the fas
     - Destination city
     - Cost
     - Time
-    - 
-# Transport method
-- Output
+    - Transport method
+
+# Output
  - The program generates an HTML file that visually displays:
- - The optimal route from origin to destination
- - Each segment of the journey with details
- - Total cost and time for the entire trip
+  - The optimal route from origin to destination
+  - Each segment of the journey with details
+  - Total cost and time for the entire trip
 
 # Example
     Enter filename containing cities: cities.txt
