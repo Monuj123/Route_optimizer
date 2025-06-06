@@ -54,6 +54,6 @@ This C++ application finds optimal routes between cities based on either the fas
 
 # Error Handling
 - The program checks for:
- - Invalid preference entries (must be "fastest" or "cheapest")
- - Nonexistent cities in the input
- - Valid file inputs
+  - Invalid preference entries (must be "fastest" or "cheapest")
+  - Nonexistent cities in the input
+  - Valid file inputs
